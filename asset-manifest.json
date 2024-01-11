@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/studioreh/static/css/main.927e0211.css",
+    "main.js": "/studioreh/static/js/main.149179fe.js",
+    "static/js/787.d1112022.chunk.js": "/studioreh/static/js/787.d1112022.chunk.js",
+    "index.html": "/studioreh/index.html",
+    "main.927e0211.css.map": "/studioreh/static/css/main.927e0211.css.map",
+    "main.149179fe.js.map": "/studioreh/static/js/main.149179fe.js.map",
+    "787.d1112022.chunk.js.map": "/studioreh/static/js/787.d1112022.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.927e0211.css",
+    "static/js/main.149179fe.js"
+  ]
+}
